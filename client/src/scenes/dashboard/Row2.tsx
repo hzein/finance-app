@@ -7,7 +7,6 @@ import { useMemo } from "react";
 import {
   CartesianGrid,
   Cell,
-  Legend,
   Line,
   LineChart,
   Pie,
