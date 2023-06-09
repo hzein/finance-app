@@ -1,4 +1,5 @@
 // eslint-disable-next-line
+// @ts-ignore
 import { Palette, PaletteColor } from "@mui/material";
 
 declare module "@mui/material/styles/createPalette" {
